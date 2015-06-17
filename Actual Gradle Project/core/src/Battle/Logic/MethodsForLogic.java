@@ -14,8 +14,8 @@ import Random.randomOwner;
 import java.util.LinkedList;
 
 /**
- * 
- * Some methods for logic
+ *
+ * @author elkyur Some methods for logic
  */
 public class MethodsForLogic {
 
